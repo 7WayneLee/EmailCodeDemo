@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<mail>
+    <sender>2104612261@qq.com</sender>
+    <password>ssnnooplujsvbfci</password>
+    <host>smtp.qq.com</host>
+    <port>465</port>
+    <auth>true</auth>
+</mail>
